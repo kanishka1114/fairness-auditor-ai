@@ -26,6 +26,18 @@ Adult Income Dataset (UCI)
 ## Solution
 This project detects and mitigates bias using Fairlearn.
 
+## Model Comparison
+Logistic Regression:
+- Accuracy: XX
+- DP Difference: XX
+
+Random Forest:
+- Accuracy: XX
+- DP Difference: XX
+
+## Key Insight
+Random Forest achieved higher accuracy but showed higher bias compared to Logistic Regression. This demonstrates the tradeoff between performance and fairness in machine learning models.
+
 ## Results
 (To be updated)
 
