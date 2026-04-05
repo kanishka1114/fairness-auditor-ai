@@ -34,7 +34,18 @@ Logistic Regression:
 Random Forest:
 - Accuracy: 0.856
 - DP Difference: 0.172
+## Bias Mitigation Analysis
 
+Before mitigation:
+- Accuracy: 
+- DP Difference: 0.12
+
+After mitigation:
+- Accuracy: 
+- DP Difference: 0.0076
+
+## Insight
+Bias mitigation reduced demographic disparity significantly, with a slight decrease in accuracy, highlighting the fairness-accuracy tradeoff.
 ## Key Insight
 Random Forest achieved higher accuracy but showed higher bias compared to Logistic Regression. This demonstrates the tradeoff between performance and fairness in machine learning models.
 
